@@ -31,6 +31,10 @@ Alt & z::
   Send {Ctrl Down}z{Ctrl Up}
 Return
 
+Alt & f::
+  Send {Ctrl Down}f{Ctrl Up}
+Return
+
 ; The Control Key Acts both as a modifier and an escape key (if it's tapped 
 ; quickly)
 ~Ctrl::
